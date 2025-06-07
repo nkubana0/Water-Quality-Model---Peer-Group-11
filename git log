@@ -1,0 +1,282 @@
+Ganza_Owen_Water_Quality_Model.ipynb		Readme.MD					shema_Water_Quality_.ipynb
+MacBook-Air-de-MEGA:Water-Quality-Model---Peer-Group-11 megaapplecenter$ git log
+commit 2dd2d012d3c4cfe2d8eb3913e5c9578b09326726 (HEAD -> main, origin/main, origin/HEAD)
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 23:48:35 2025 +0200
+
+    Create report.md
+
+commit 22c0024652cc1a155697cc79b4b3c00ee0ae69d8
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 23:46:21 2025 +0200
+
+    Added model for Diana
+
+commit d2cd1c6d38fc4ab6352491600465d67feafba61b
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+Date:   Sat Jun 7 19:55:53 2025 +0200
+
+    Add Deolinda's notebook for water quality model
+
+commit 4e0f7a1d10d4a428f9db6250840e3d614f93689f
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 15:44:44 2025 +0200
+
+    Added data preprocessing and model training
+
+commit e40420fe1d2a7c2f32c337d6895ef3290073bee5
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 15:33:42 2025 +0200
+
+    Added model, also implemented a confusion matrix
+
+commit 9035fa5c34c9a1c70a334023e34df4ac490f4454
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:54:31 2025 +0200
+
+    Delete shema_notebook.ipynb
+
+commit 49cfe2fd209d7bcea7486055d6d4b469091f8445
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:54:14 2025 +0200
+
+    Updated Individual notebook
+
+commit df47eda594b64d52e6a0358dab150facfb9916af
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:43:40 2025 +0200
+
+    Implemented SGD-based model with L2 regularization, dropout, and early stopping. Trained on scaled data and evaluated using standard classification metrics.
+
+commit efd1dff0c97f87d4d68aefe4db40ddaedab687f1
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:39:33 2025 +0200
+
+    Created using Colab
+
+commit ef19ef755c010e5f08a50f2e750f6c3e3a11e10e
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:21:10 2025 +0200
+
+    Individual notebook copy
+
+commit b85c2391d3800366b1c22a1e2141804643fbaf91
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+:...skipping...
+commit 2dd2d012d3c4cfe2d8eb3913e5c9578b09326726 (HEAD -> main, origin/main, origin/HEAD)
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 23:48:35 2025 +0200
+
+    Create report.md
+
+commit 22c0024652cc1a155697cc79b4b3c00ee0ae69d8
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 23:46:21 2025 +0200
+
+    Added model for Diana
+
+commit d2cd1c6d38fc4ab6352491600465d67feafba61b
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+Date:   Sat Jun 7 19:55:53 2025 +0200
+
+    Add Deolinda's notebook for water quality model
+
+commit 4e0f7a1d10d4a428f9db6250840e3d614f93689f
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 15:44:44 2025 +0200
+
+    Added data preprocessing and model training
+
+commit e40420fe1d2a7c2f32c337d6895ef3290073bee5
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 15:33:42 2025 +0200
+
+    Added model, also implemented a confusion matrix
+
+commit 9035fa5c34c9a1c70a334023e34df4ac490f4454
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:54:31 2025 +0200
+
+    Delete shema_notebook.ipynb
+
+commit 49cfe2fd209d7bcea7486055d6d4b469091f8445
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:54:14 2025 +0200
+
+    Updated Individual notebook
+
+commit df47eda594b64d52e6a0358dab150facfb9916af
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:43:40 2025 +0200
+
+    Implemented SGD-based model with L2 regularization, dropout, and early stopping. Trained on scaled data and evaluated using standard classification metrics.
+
+commit efd1dff0c97f87d4d68aefe4db40ddaedab687f1
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:39:33 2025 +0200
+
+    Created using Colab
+
+commit ef19ef755c010e5f08a50f2e750f6c3e3a11e10e
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:21:10 2025 +0200
+
+    Individual notebook copy
+
+commit b85c2391d3800366b1c22a1e2141804643fbaf91
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+Date:   Sat Jun 7 14:19:12 2025 +0200
+
+    Add model_deolinda_Adam_dropout_model with Adam optimizer, dropout, and L2 regularization
+
+commit a72589135bf01892cde2191744f008bbd96ea255
+:...skipping...
+commit 2dd2d012d3c4cfe2d8eb3913e5c9578b09326726 (HEAD -> main, origin/main, origin/HEAD)
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 23:48:35 2025 +0200
+
+    Create report.md
+
+commit 22c0024652cc1a155697cc79b4b3c00ee0ae69d8
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 23:46:21 2025 +0200
+
+    Added model for Diana
+
+commit d2cd1c6d38fc4ab6352491600465d67feafba61b
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+Date:   Sat Jun 7 19:55:53 2025 +0200
+
+    Add Deolinda's notebook for water quality model
+
+commit 4e0f7a1d10d4a428f9db6250840e3d614f93689f
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 15:44:44 2025 +0200
+
+    Added data preprocessing and model training
+
+commit e40420fe1d2a7c2f32c337d6895ef3290073bee5
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 15:33:42 2025 +0200
+
+    Added model, also implemented a confusion matrix
+
+commit 9035fa5c34c9a1c70a334023e34df4ac490f4454
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:54:31 2025 +0200
+
+    Delete shema_notebook.ipynb
+
+commit 49cfe2fd209d7bcea7486055d6d4b469091f8445
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:54:14 2025 +0200
+
+    Updated Individual notebook
+
+commit df47eda594b64d52e6a0358dab150facfb9916af
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:43:40 2025 +0200
+
+    Implemented SGD-based model with L2 regularization, dropout, and early stopping. Trained on scaled data and evaluated using standard classification metrics.
+
+commit efd1dff0c97f87d4d68aefe4db40ddaedab687f1
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:39:33 2025 +0200
+
+    Created using Colab
+
+commit ef19ef755c010e5f08a50f2e750f6c3e3a11e10e
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:21:10 2025 +0200
+
+    Individual notebook copy
+
+commit b85c2391d3800366b1c22a1e2141804643fbaf91
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+Date:   Sat Jun 7 14:19:12 2025 +0200
+
+    Add model_deolinda_Adam_dropout_model with Adam optimizer, dropout, and L2 regularization
+
+commit a72589135bf01892cde2191744f008bbd96ea255
+Author: lmurayire12 <143597540+lmurayire12@users.noreply.github.com>
+Date:   Sat Jun 7 08:06:20 2025 -0400
+
+    Preprocessed data and implemented L1-regularized NN with dropout and early stopping
+
+commit 3a760cf11f2a6be9ceb0f6023104a68f4f0743f9
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+...skipping...
+commit 2dd2d012d3c4cfe2d8eb3913e5c9578b09326726 (HEAD -> main, origin/main, origin/HEAD)
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 23:48:35 2025 +0200
+
+    Create report.md
+
+commit 22c0024652cc1a155697cc79b4b3c00ee0ae69d8
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 23:46:21 2025 +0200
+
+    Added model for Diana
+
+commit d2cd1c6d38fc4ab6352491600465d67feafba61b
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+Date:   Sat Jun 7 19:55:53 2025 +0200
+
+    Add Deolinda's notebook for water quality model
+
+commit 4e0f7a1d10d4a428f9db6250840e3d614f93689f
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 15:44:44 2025 +0200
+
+    Added data preprocessing and model training
+
+commit e40420fe1d2a7c2f32c337d6895ef3290073bee5
+Author: Yhaan Owen Ganza <144003379+gyhaan@users.noreply.github.com>
+Date:   Sat Jun 7 15:33:42 2025 +0200
+
+    Added model, also implemented a confusion matrix
+
+commit 9035fa5c34c9a1c70a334023e34df4ac490f4454
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:54:31 2025 +0200
+
+    Delete shema_notebook.ipynb
+
+commit 49cfe2fd209d7bcea7486055d6d4b469091f8445
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:54:14 2025 +0200
+
+    Updated Individual notebook
+
+commit df47eda594b64d52e6a0358dab150facfb9916af
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:43:40 2025 +0200
+
+    Implemented SGD-based model with L2 regularization, dropout, and early stopping. Trained on scaled data and evaluated using standard classification metrics.
+
+commit efd1dff0c97f87d4d68aefe4db40ddaedab687f1
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:39:33 2025 +0200
+
+    Created using Colab
+
+commit ef19ef755c010e5f08a50f2e750f6c3e3a11e10e
+Author: nkubana0 <127296232+nkubana0@users.noreply.github.com>
+Date:   Sat Jun 7 14:21:10 2025 +0200
+
+    Individual notebook copy
+
+commit b85c2391d3800366b1c22a1e2141804643fbaf91
+Author: Gnon Déolinda Bio Bogore <139719649+Deolinda1506@users.noreply.github.com>
+Date:   Sat Jun 7 14:19:12 2025 +0200
+
+    Add model_deolinda_Adam_dropout_model with Adam optimizer, dropout, and L2 regularization
+
+commit a72589135bf01892cde2191744f008bbd96ea255
+Author: lmurayire12 <143597540+lmurayire12@users.noreply.github.com>
+Date:   Sat Jun 7 08:06:20 2025 -0400
+
+    Preprocessed data and implemented L1-regularized NN with dropout and early stopping
+
+commit 3a760cf11f2a6be9ceb0f6023104a68f4f0743f9
+:
