@@ -178,7 +178,7 @@ These techniques aimed to find a balance between generalization and model comple
 #### Insights from Experiments
 - **RMSprop's Behavior**: Requires careful tuning—learning rate and momentum are crucial. It tends to converge steadily but needed adjustment for optimal performance.
 - **Dropout at 0.4**: Helped prevent overfitting but might have contributed to lower recall by being too aggressive in deactivating neurons.
-- **L1 Regularization**: Reduced model complexity, which helped improve precision but might have hurt recall by discarding potentially useful features.
+- **L1 Regularization**: Reduced model complexity,which helped improve precision but might have hurt recall by discarding potentially useful features.
 
 #### Challenges Faced
 - **Tuning RMSprop**: Unlike other optimizers, RMSprop required manual tuning of its learning rate for effective convergence.
